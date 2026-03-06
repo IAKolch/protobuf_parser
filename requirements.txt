@@ -1,0 +1,2 @@
+protobuf==7.34.0
+setuptools==82.0.0

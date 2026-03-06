@@ -1,0 +1,12 @@
+.idea/
+.vscode/
+.pytest_cache/
+venv/
+dist/
+build/
+__pycache__/
+*.egg-info/
+MANIFEST
+*.pyc
+*.log
+*_pb2.py
